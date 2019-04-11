@@ -5,3 +5,4 @@
 Adicione seu nome na lista de pessoas abaixo:
 
 - Alejandro Olchik
+- Barbara Anger
