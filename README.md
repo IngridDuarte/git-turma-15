@@ -10,9 +10,8 @@ Adicione seu nome na lista de pessoas abaixo:
 - Daniela Araujo
 - Daniel Fernando
 - cassia e Maria
-
+- Luiza Lamarque
+- Ingrid Duarte
 - Francielli Pinheiro Dias
-
 - Jurley
-
 - Gabriel Farias
