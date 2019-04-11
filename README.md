@@ -9,7 +9,7 @@ Adicione seu nome na lista de pessoas abaixo:
 - Barbara Anger
 - Daniela Araujo
 - Daniel Fernando
-
+- cassia e Maria
 
 - Francielli Pinheiro Dias
 
