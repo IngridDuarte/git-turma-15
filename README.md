@@ -11,3 +11,7 @@ Adicione seu nome na lista de pessoas abaixo:
 - Daniel Fernando
 
 
+- Francielli Pinheiro Dias
+
+- Jurley
+
