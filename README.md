@@ -15,3 +15,4 @@ Adicione seu nome na lista de pessoas abaixo:
 
 - Jurley
 
+- Gabriel Farias
