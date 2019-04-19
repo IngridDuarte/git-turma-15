@@ -13,5 +13,5 @@ Adicione seu nome na lista de pessoas abaixo:
 - Luiza Lamarque
 - Ingrid Duarte
 - Francielli Pinheiro Dias
-- Jurley
+- Jurley Ribeiro
 - Gabriel Farias
